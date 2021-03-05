@@ -991,3 +991,5 @@ def main_menu():
         break
 
 start_app()
+
+### Move clear() to bottom of functions
