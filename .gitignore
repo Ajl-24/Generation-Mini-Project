@@ -1,0 +1,5 @@
+.venv
+.env
+product_list_file.csv
+courier_list_file.csv
+order_list_file.csv
