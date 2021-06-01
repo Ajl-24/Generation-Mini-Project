@@ -1,9 +1,9 @@
-#Overview
+# Overview
 
 A CLI app created to help the user log and track delivery orders for their pop-up cafe.
 
 
-#Goals
+## Goals
 
 As a business:
 - I want to maintain a collection of products & couriers
@@ -14,12 +14,12 @@ As a business:
 - I want to be sure the app has been tested & proven to work well
 
 
-#Further Details
+## Further Details
 
 All data is persisted in MySQL. Whenever a change is made in-app, the databse is immediately updated. A back-up is also stored in .csv format upon exiting the app. (Note: new files will be written if they do not yet exist!)
 
 
-#Run
+## Run
 
 To run:
 1. Install the requirements by running 'pip install -r requirements.txt'
@@ -27,7 +27,7 @@ To run:
 3. Run 'python ./mini_project.py' & follow the instructions!
 
 
-#Key Take-Aways
+## Key Take-Aways
 
 1. Creating something robust! Handling all sorts of errors to avoid crashes.
 2. How to fetch and cache values such as auto_incrementing IDs from the database.
